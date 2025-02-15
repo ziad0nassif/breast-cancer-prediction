@@ -55,11 +55,12 @@ Each model was evaluated using **accuracy** and a **confusion matrix**. Here are
 
 | **Model**                  | **Accuracy (%)**  |
 |----------------------------|------------------|
-| Logistic Regression        |  **X.XX%**       |
-| K-Nearest Neighbors (KNN)  |  **X.XX%**       |
-| SGD Classifier             |  **X.XX%**       |
-| Random Forest Classifier   |  **X.XX%**       |
-| XGBoost Classifier         |  **X.XX%**       |
+| Logistic Regression        | **99.11%**       |
+| K-Nearest Neighbors (KNN)  | **98.21%**       |
+| SGD Classifier             | **99.11%**       |
+| Random Forest Classifier   | **98.21%**       |
+| XGBoost Classifier         | **99.11%**       |
+
 
 **🔹 Confusion Matrices** were plotted to visualize predictions.
 
