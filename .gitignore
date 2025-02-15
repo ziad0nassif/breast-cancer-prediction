@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+venv/
+*.venv/
+*.env
+
+# Ignore dataset and results (if you don’t want to track them)
+datasets/
+results/
+
+# Ignore large files
+*.log
+*.csv
+*.h5
