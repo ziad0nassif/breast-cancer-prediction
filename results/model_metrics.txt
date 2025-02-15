@@ -1,0 +1,30 @@
+Model: Logistic Regression
+Accuracy: 99.11%
+Confusion Matrix:
+[[67  1]
+ [ 0 44]]
+----------------------------------------
+Model: KNN
+Accuracy: 98.21%
+Confusion Matrix:
+[[67  1]
+ [ 1 43]]
+----------------------------------------
+Model: SGD Classifier
+Accuracy: 99.11%
+Confusion Matrix:
+[[68  0]
+ [ 1 43]]
+----------------------------------------
+Model: Random Forest Classifier
+Accuracy: 98.21%
+Confusion Matrix:
+[[68  0]
+ [ 2 42]]
+----------------------------------------
+Model: XGBoost
+Accuracy: 99.11%
+Confusion Matrix:
+[[67  1]
+ [ 0 44]]
+----------------------------------------
